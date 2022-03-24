@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe3c0177a2bc91359a1f4136b3c277da4d99de0c9",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x3dd27a2f29e4fd5742a8052300375ae308bd96301473593c9df8bb45a012b2e3",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "STITCHED KILLER BEARS",
+  "SYMBOL": "SKBNFT",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/assets/mumbai/0xe3c0177a2bc91359a1f4136b3c277da4d99de0c9/7",
+  "SHOW_BACKGROUND": true
+}
